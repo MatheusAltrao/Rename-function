@@ -31,8 +31,6 @@ is a web application built with Next.js that leverages the power of OpenAI's GPT
 
 <li> <strong>Shadcn UI:</strong>  Provides a customizable UI component library for building consistent and accessible designs.
 </li>
-<li> <strong>Shadcn UI:</strong>  Provides a customizable UI component library for building consistent and accessible designs.
-</li>
 
 <li> <strong>Tailwind CSS:</strong> For styling the application with a focus on responsive and utility-first design.
 </li>
