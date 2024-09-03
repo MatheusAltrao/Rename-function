@@ -1,6 +1,6 @@
 ## Rename Functions
 
-is a web application built with Next.js that leverages the power of OpenAI's GPT-3.5 model to help developers generate better, more descriptive names for their functions. This tool aims to improve code readability and maintainability by providing AI-driven suggestions for function names based on the function's code or current name.
+It is a web application built with Next.js that leverages the power of OpenAI's GPT-3.5 model to help developers generate better, more descriptive names for their functions. This tool aims to improve code readability and maintainability by providing AI-driven suggestions for function names based on the function's code or current name.
 
 ## Key Features
 
