@@ -53,7 +53,7 @@ export default function Home() {
         <CardHeader>
           <CardTitle>Rename your function with AI</CardTitle>
           <CardDescription>
-            Enter your function code below and we'll suggest a more descriptive name.
+            Enter your function code below and we willl suggest a more descriptive name.
           </CardDescription>
         </CardHeader>
         <CardContent>
