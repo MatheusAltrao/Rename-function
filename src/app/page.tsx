@@ -48,7 +48,7 @@ export default function Home() {
   };
 
   return (
-    <main className="min-h-screen flex items-center justify-center">
+    <main className="min-h-screen flex items-center justify-center p-2">
       <Card className="w-full max-w-md">
         <CardHeader>
           <CardTitle>Rename your function with AI</CardTitle>
